@@ -34,7 +34,7 @@ RFiver comes with LOTS of features, ready for use. Yes, most of them are experim
    - Viewmodel glow (static style, using scripts)
    - Anti-OBS ( stream proof visuals, thanks to gamesdk.dll )
 - Other
-   - Disable annoying water marks, commonly employed by greedy server admins
+   - Disable forced watermarks, commonly employed by greedy server admins
    - Hide your own name
    - Anonymize other player names
    - Ignore "Disconnect" StringCmd (partially evades high-ping kicks, blocks some input most of the time)
