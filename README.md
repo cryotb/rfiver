@@ -43,7 +43,7 @@ RFiver comes with LOTS of features, ready for use. Yes, most of them are experim
    - [EXP] execute commands on the game's squirrel VM (improvised, should be reworked ideally)
 # Media
 [![IMAGE ALT TEXT](http://img.youtube.com/vi/b4aU8pLgeDE/0.jpg)](http://www.youtube.com/watch?v=b4aU8pLgeDE "Video Title")
-# Disclaimer
+# Why?
 The aim of this project is to aid people in research of R5R inner workings, production level code is out of question.<br>
 Patches released by the R5R dev team might break some things, but the only thing i witnessed breaking was my signatures on gamesdk.dll.<br><br>
 The actual game binary pretty much never updated, which is also why i decided to hardcode most offsets.<br>
@@ -56,3 +56,5 @@ Lastly i want to mention this trainer is by no means stealth. It's only easy to 
 - https://github.com/nlohmann/json
 - https://github.com/fmtlib/fmt
 - Various other github repositories.
+# Disclaimer
+I will not provide any support for this project. If there's any PRs for game updates or critical flaws, i'll happily review them. However development has stalled and will not continue, so issues have been disabled. No question though that there is many issues with this mess ;-)
